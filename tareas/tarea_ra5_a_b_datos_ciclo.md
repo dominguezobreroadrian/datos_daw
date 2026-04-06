@@ -54,7 +54,7 @@
 | Uso en móvil          | Mayoría usa dispositivos móviles   |
 
 ## 8) Diagrama
-```
+```mermaid
     U[Usuario] --> A[App]
     A --> B[Base de datos]
     B --> P[Procesamiento]

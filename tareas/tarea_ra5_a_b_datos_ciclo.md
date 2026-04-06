@@ -55,6 +55,7 @@
 
 ## 8) Diagrama
 ```mermaid
+    flowchart LR
     U[Usuario] --> A[App]
     A --> B[Base de datos]
     B --> P[Procesamiento]

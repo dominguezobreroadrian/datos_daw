@@ -44,6 +44,7 @@
     - Incrementa beneficios de la empresa
 
 ## 7) Tabla
+
 | Dato                  | Información                        |
 | --------------------- | ---------------------------------- |
 | Usuario ve serie A    | Serie A es popular                 |
@@ -53,12 +54,19 @@
 | Uso en móvil          | Mayoría usa dispositivos móviles   |
 
 ## 8) Diagrama
-
+```
+    U[Usuario] --> A[App]
+    A --> B[Base de datos]
+    B --> P[Procesamiento]
+    P --> AN[Análisis]
+    AN --> D[Decisión]
+```
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+
+- Problema 1: Datos incorrectos (edad falsa)
+- Solución 1: Validación de datos al registrarse
+- Problema 2: Datos incompletos
+- Solución 2: Solicitar información obligatoria y limpiar datos
 
 ## 10) Fuente
 - Enlace:

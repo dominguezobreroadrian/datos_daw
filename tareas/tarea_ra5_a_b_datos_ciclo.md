@@ -13,7 +13,9 @@
 - Dispositivo usado
 
 ## 3) Información
--
+- Series más populares
+- Géneros preferidos por grupo de edad
+- Horas pico de uso
 
 ## 4) Diferencia
 -

@@ -30,8 +30,18 @@
 - Eliminación o archivo: Se eliminan datos antiguos o se almacenan de forma histórica
 
 ## 6) Aplicación
-- Decisiones:
-- Valor:
+- Decisiones
+    - Recomendar series o películas
+    - Crear contenido basado en tendencias
+    - Ajustar precios o planes
+- Si solo hay datos sin procesar
+    - No se pueden sacar conclusiones
+    - No hay mejoras en el servicio
+    - No se toman decisiones útiles
+- Valor
+    - Mejora la experiencia del usuario
+    - Aumenta el tiempo de uso
+    - Incrementa beneficios de la empresa
 
 ## 7) Tabla
 | Dato | Información |

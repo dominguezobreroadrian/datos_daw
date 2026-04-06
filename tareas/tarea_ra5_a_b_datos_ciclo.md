@@ -1,11 +1,16 @@
 # Práctica RA5 · a+b — Datos e información
 
 ## 1) Caso
-- Sistema:
-- Contexto:
+- Sistema: Sistema de gestión de ventas de una tienda online
+- Contexto: Una tienda online recoge datos de clientes y compras para mejorar sus ventas y tomar decisiones estratégicas.
 
 ## 2) Datos
--
+- Nombre del cliente
+- Edad
+- Producto comprado
+- Precio
+- Fecha de compra
+- Cantidad
 
 ## 3) Información
 -

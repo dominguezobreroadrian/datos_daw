@@ -44,7 +44,13 @@
     - Incrementa beneficios de la empresa
 
 ## 7) Tabla
-| Dato | Información |
+| Dato                  | Información                        |
+| --------------------- | ---------------------------------- |
+| Usuario ve serie A    | Serie A es popular                 |
+| Edad: 20 años         | Jóvenes prefieren acción           |
+| 3 horas de uso diario | Alta actividad en usuarios jóvenes |
+| Valoración positiva   | Contenido bien recibido            |
+| Uso en móvil          | Mayoría usa dispositivos móviles   |
 
 ## 8) Diagrama
 

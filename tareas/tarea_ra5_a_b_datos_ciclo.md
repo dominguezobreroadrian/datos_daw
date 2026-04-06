@@ -18,15 +18,16 @@
 - Horas pico de uso
 
 ## 4) Diferencia
--
+- Dato: Información sin procesar (ej: “usuario vio 3 series”)
+- Información: Resultado del análisis de datos (ej: “las series de acción son las más vistas por jóvenes”)
 
 ## 5) Ciclo del dato
-- Captura:
-- Almacenamiento:
-- Procesamiento:
-- Análisis:
-- Uso:
-- Eliminación:
+- Captura: El usuario navega y ve contenido en la app
+- Almacenamiento: Los datos se guardan en servidores o bases de datos
+- Procesamiento: Se organizan y agrupan los datos
+- Análisis: Se detectan patrones (gustos, hábitos)
+- Uso: Se generan recomendaciones personalizadas
+- Eliminación o archivo: Se eliminan datos antiguos o se almacenan de forma histórica
 
 ## 6) Aplicación
 - Decisiones:

@@ -1,16 +1,16 @@
 # Práctica RA5 · a+b — Datos e información
 
 ## 1) Caso
-- Sistema: Sistema de gestión de ventas de una tienda online
-- Contexto: Una tienda online recoge datos de clientes y compras para mejorar sus ventas y tomar decisiones estratégicas.
+- Sistema: Plataforma de streaming (tipo Netflix)
+- Contexto: La plataforma recopila datos de los usuarios para recomendar contenido y mejorar su servicio.
 
 ## 2) Datos
-- Nombre del cliente
+- Nombre del usuario
 - Edad
-- Producto comprado
-- Precio
-- Fecha de compra
-- Cantidad
+- Series vistas
+- Tiempo de visualización
+- Valoración (likes/dislikes)
+- Dispositivo usado
 
 ## 3) Información
 -

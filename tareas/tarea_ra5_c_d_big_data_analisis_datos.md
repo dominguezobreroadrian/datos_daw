@@ -1,8 +1,8 @@
 # Práctica RA5 · c+d — Big Data e IA
 
 ## 1) Caso
-- Sistema:
-- Contexto:
+- **Sistema:** Sistema inteligente de riego agrícola
+- **Contexto:** Una explotación agrícola quiere optimizar el uso de agua y mejorar la producción utilizando datos de sensores y predicciones automáticas.
 
 ## 2) Conceptos
 - Big Data:

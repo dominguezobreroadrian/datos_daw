@@ -24,17 +24,17 @@ Big Data recoge datos del campo → el análisis los interpreta → Machine Lear
 7. Activación automática del sistema 
 
 ## 5) 5V del Big Data
-- Volumen:
-- Velocidad:
-- Variedad:
-- Veracidad:
-- Valor:
+- **Volumen:** Datos continuos de múltiples sensores.
+- **Velocidad:** Datos en tiempo real.
+- **Variedad:** Datos de clima, suelo, agua y cultivos.
+- **Veracidad:** Precisión de los sensores.
+- **Valor:** Ahorro de agua y mejora de la producción.
 
 ## 6) Ejemplo aplicado
-- Datos:
-- Análisis:
-- Modelo:
-- Decisión:
+- **Datos:** Humedad del suelo y temperatura.
+- **Análisis:** Identificación de sequedad en el terreno.
+- **Modelo:** Predicción del momento óptimo de riego.
+- **Decisión:** Activar automáticamente el sistema de riego.
 
 ## 7) Tabla
 | Concepto | Función |

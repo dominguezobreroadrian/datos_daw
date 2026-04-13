@@ -48,6 +48,18 @@ Big Data recoge datos del campo → el análisis los interpreta → Machine Lear
 
 ## 8) Diagrama
 
+```mermaid
+graph TD
+A[Sensores] --> B[Datos]
+B --> C[Almacenamiento Big Data]
+C --> D[Limpieza y Procesamiento]
+D --> E[Análisis de datos]
+E --> F[Modelo Machine Learning]
+F --> G[Predicción]
+G --> H[Decisión IA]
+H --> I[Activación del riego]
+```
+
 ## 9) Problemas
 - Problema 1:
 - Solución 1:

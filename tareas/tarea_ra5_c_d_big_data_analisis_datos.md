@@ -61,10 +61,10 @@ H --> I[Activación del riego]
 ```
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Fallos en sensores
+  - Solución 1: Mantenimiento y validación de datos
+- Problema 2: Predicción incorrecta por cambios climáticos extremos
+  - Solución 2: Actualizar el modelo con datos recientes
 
 ## 10) Fuente
 - Enlace:

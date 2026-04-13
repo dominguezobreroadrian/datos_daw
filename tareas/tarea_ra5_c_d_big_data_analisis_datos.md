@@ -12,10 +12,16 @@
 - **IA:** Sistema que automatiza la decisión de cuándo activar el riego.
 
 ## 3) Relación
--
+Big Data recoge datos del campo → el análisis los interpreta → Machine Learning predice necesidades → Deep Learning mejora precisión → la IA ejecuta decisiones automáticas.
 
 ## 4) Pipeline
--
+1. Recogida de datos (sensores, clima, suelo)  
+2. Almacenamiento en sistemas Big Data  
+3. Limpieza de datos  
+4. Análisis de patrones  
+5. Entrenamiento del modelo  
+6. Predicción de necesidades de riego  
+7. Activación automática del sistema 
 
 ## 5) 5V del Big Data
 - Volumen:

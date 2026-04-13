@@ -5,11 +5,11 @@
 - **Contexto:** Una explotación agrícola quiere optimizar el uso de agua y mejorar la producción utilizando datos de sensores y predicciones automáticas.
 
 ## 2) Conceptos
-- Big Data:
-- Análisis de datos:
-- Machine Learning:
-- Deep Learning:
-- IA:
+- **Big Data:** Gran volumen de datos recogidos por sensores (humedad del suelo, temperatura, clima, consumo de agua).
+- **Análisis de datos:** Estudio de los datos para detectar cuándo y cuánto regar.
+- **Machine Learning:** Modelos que aprenden patrones para predecir las necesidades de riego según condiciones ambientales.
+- **Deep Learning:** Uso de redes neuronales para analizar múltiples variables complejas como clima, tipo de cultivo y suelo.
+- **IA:** Sistema que automatiza la decisión de cuándo activar el riego.
 
 ## 3) Relación
 -

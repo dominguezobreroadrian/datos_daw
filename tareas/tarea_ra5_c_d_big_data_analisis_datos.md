@@ -67,4 +67,4 @@ H --> I[Activación del riego]
   - Solución 2: Actualizar el modelo con datos recientes
 
 ## 10) Fuente
-- Enlace:
+- Enlace: [IBM- Inteligencia Artificial](https://www.ibm.com/think/topics/artificial-intelligence)

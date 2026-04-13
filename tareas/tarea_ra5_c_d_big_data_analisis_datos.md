@@ -37,7 +37,14 @@ Big Data recoge datos del campo → el análisis los interpreta → Machine Lear
 - **Decisión:** Activar automáticamente el sistema de riego.
 
 ## 7) Tabla
-| Concepto | Función |
+
+| Concepto          | Función                                     |
+|------------------|----------------------------------------------|
+| Big Data         | Recoger y almacenar datos del entorno        |
+| Análisis de datos| Interpretar condiciones del cultivo          |
+| Machine Learning | Predecir necesidades de riego                |
+| Deep Learning    | Analizar múltiples variables complejas       |
+| IA               | Automatizar decisiones del sistema           |
 
 ## 8) Diagrama
 
